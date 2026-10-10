@@ -1,0 +1,1 @@
+No true auth exists for this project due to no necessity, therefore production data (information on Archie, photos and videos hosted elsewhere) is fine placed here
